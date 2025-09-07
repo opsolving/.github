@@ -44,6 +44,7 @@ If any chart is abandoned by the community, **Opsolving adopts and maintains it*
 | Databases     | CouchDB         | Apache CouchDB         | [apache/couchdb-helm](https://github.com/apache/couchdb-helm/tree/main/couchdb) | 📦 | ⬜ |
 | Databases     | Couchbase       | Couchbase              | [couchbase-partners/helm-charts/couchbase-operator](https://github.com/couchbase-partners/helm-charts/tree/master/charts/couchbase-operator) | 🛠️ | ⬜ |
 | Databases     | ScyllaDB        | ScyllaDB              | [scylladb/scylla-operator](https://github.com/scylladb/scylla-operator/tree/master/helm) | 🛠️ | ⬜ |
+| Databases     | Redis           | Redis                 | [OT-CONTAINER-KIT/redis-operator](https://github.com/OT-CONTAINER-KIT/redis-operator/tree/main/charts/redis-operator) | 🛠️ | ⬜ |
 | Data          | Redpanda        | Redpanda Controller    | [redpanda-operator/charts/redpanda](https://github.com/redpanda-data/redpanda-operator/tree/main/charts/redpanda) | ⚙️ | ⬜ |
 | Data          | Redpanda        | Redpanda               | [redpanda-operator/operator/chart](https://github.com/redpanda-data/redpanda-operator/tree/main/operator/chart) | 🛠️ | ⬜ |
 | Data          | InfluxDB        | InfluxDB              | [influxdata/helm-charts](https://github.com/influxdata/helm-charts) | 📦 | ⬜ |
