@@ -7,22 +7,7 @@ Created as community-driven alternatives after Bitnami charts moved to a commerc
 
 ## 📚 Available Charts
 
-- 🐘 **PostgreSQL**
-- 🐬 **MySQL**
-- 🍃 **MongoDB**
-- 🦄 **Keycloak**
-- 🔑 **KeyDB**
-- ☕ **Tomcat**
-- 🐇 **RabbitMQ**
-- 🧩 **WildFly**
-- 🗄️ **OpenLDAP**
-- 🗂️ **phpMyAdmin**
-- 📊 **Kafka**
-- 📡 **Zookeeper**
-- 📥 **Logstash**
-- 🌐 **NGINX**
-- 🔴 **Redis** / **Redis Cluster**
-- 🔧 **Common base chart**
+🐘 **PostgreSQL** • 🐬 **MySQL** • 🍃 **MongoDB** • 🦄 **Keycloak** • 🔑 **KeyDB** • ☕ **Tomcat** • 🐇 **RabbitMQ** • 🧩 **WildFly** • 🗄️ **OpenLDAP** • 🗂️ **phpMyAdmin** • 📊 **Kafka** • 📡 **Zookeeper** • 📥 **Logstash** • 🌐 **NGINX** • 🔴 **Redis / Redis Cluster** • 🔧 **Common Base Chart**
 
 ---
 
