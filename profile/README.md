@@ -49,6 +49,7 @@ If any chart is abandoned by the community, **Opsolving adopts and maintains it*
 | Data          | Redpanda        | Redpanda               | [redpanda-operator/operator/chart](https://github.com/redpanda-data/redpanda-operator/tree/main/operator/chart) | 🛠️ | ⬜ |
 | Data          | InfluxDB        | InfluxDB              | [influxdata/helm-charts](https://github.com/influxdata/helm-charts) | 📦 | ⬜ |
 | Data          | OpenSearch      | OpenSearch            | [opensearch-project/helm-charts](https://github.com/opensearch-project/helm-charts/tree/main/charts) | 📦 | ⬜ |
+| Data          | Solr            | Solr                  | [apache/solr-operator](https://github.com/apache/solr-operator/tree/main/helm) | 🛠️ | ⬜ |
 | Networking    | External DNS    | External DNS           | [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns/tree/master/charts/external-dns) | ⚙️ | ⬜ |
 | Networking    | Consul          | Consul                | [hashicorp/consul-k8s](https://github.com/hashicorp/consul-k8s/tree/main/charts/consul) | 📦 | ⬜ |
 | Networking    | Kong            | Kong                  | [Kong/charts](https://github.com/Kong/charts/tree/main/charts) | 📦 | ⬜ |
@@ -59,7 +60,6 @@ If any chart is abandoned by the community, **Opsolving adopts and maintains it*
 | Applications  | Nominatim       | Nominatim              | [robjuz/helm-charts/nominatim](https://github.com/robjuz/helm-charts/tree/master/charts/nominatim) | 📦 | ⬜ |
 | Applications  | Jenkins         | Jenkins               | [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts/tree/main/charts/jenkins) | 📦 | ⬜ |
 | Applications  | SonarQube       | SonarQube             | [SonarSource/helm-chart-sonarqube](https://github.com/SonarSource/helm-chart-sonarqube/tree/master/charts) | 📦 | ⬜ |
-| Data          | Solr            | Solr                  | [apache/solr-operator](https://github.com/apache/solr-operator/tree/main/helm) | 🛠️ | ⬜ |
 
 ---
 
