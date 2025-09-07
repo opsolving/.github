@@ -33,9 +33,9 @@ Instead, use official **Percona Operators**:
 
 | Chart        | Recommended Operator                  | Link                                                                 |
 |--------------|---------------------------------------|----------------------------------------------------------------------|
-| 🐘 PostgreSQL | Percona PostgreSQL Operator           | [GitHub](https://github.com/percona/percona-helm-charts/tree/main/charts/pg-operator) |
-| 🐬 MySQL      | Percona XtraDB Cluster Operator (PXC) | [GitHub](https://github.com/percona/percona-helm-charts/tree/main/charts/pxc-operator) |
-| 🍃 MongoDB    | Percona MongoDB Operator              | [GitHub](https://github.com/percona/percona-helm-charts/tree/main/charts/psmdb-operator) |
+| 🐘 PostgreSQL | Percona PostgreSQL Operator           | [percona-helm-charts/pg-operator](https://github.com/percona/percona-helm-charts/tree/main/charts/pg-operator) |
+| 🐬 MySQL      | Percona XtraDB Cluster Operator (PXC) | [percona-helm-charts/pxc-operator](https://github.com/percona/percona-helm-charts/tree/main/charts/pxc-operator) |
+| 🍃 MongoDB    | Percona MongoDB Operator              | [percona-helm-charts/psmdb-operator](https://github.com/percona/percona-helm-charts/tree/main/charts/psmdb-operator) |
 
 Operators provide:  
 ✅ High Availability • ✅ Automated Backups • ✅ Monitoring Integration • ✅ Full Lifecycle Management
