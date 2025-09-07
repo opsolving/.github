@@ -48,6 +48,7 @@ If any chart is abandoned by the community, **Opsolving adopts and maintains it*
 | Data          | InfluxDB        | InfluxDB              | [influxdata/helm-charts](https://github.com/influxdata/helm-charts) | 📦 | ⬜ |
 | Networking    | External DNS    | External DNS           | [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns/tree/master/charts/external-dns) | ⚙️ | ⬜ |
 | Networking    | Consul          | Consul                | [hashicorp/consul-k8s](https://github.com/hashicorp/consul-k8s/tree/main/charts/consul) | 📦 | ⬜ |
+| Networking    | Kong            | Kong                  | [Kong/charts](https://github.com/Kong/charts/tree/main/charts) | 📦 | ⬜ |
 | Identity      | Cert Manager    | Cert Manager           | [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager/tree/master/deploy/charts/cert-manager) | ⚙️ | ⬜ |
 | Applications  | Argo CD         | Argo CD                | [argo-helm/argo-cd](https://github.com/argoproj/argo-helm/tree/main/charts/argo-cd) | ⚙️ | ⬜ |
 | Applications  | Argo Workflows  | Argo Workflows         | [argo-helm/argo-workflows](https://github.com/argoproj/argo-helm/tree/main/charts/argo-workflows) | ⚙️ | ⬜ |
