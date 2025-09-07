@@ -12,19 +12,19 @@ Created as community-driven alternatives after Bitnami charts moved to a commerc
 <td valign="top">
 
 ### 🗄️ Databases
-🐘 PostgreSQL • 🐬 MySQL • 🍃 MongoDB • 🔴 Redis • 🔴 Redis Cluster • 🗂️ phpMyAdmin
+🐘 PostgreSQL<br>🐬 MySQL<br>🍃 MongoDB<br>🔴 Redis<br>🔴 Redis Cluster<br>🗂️ phpMyAdmin
 
 </td>
 <td valign="top">
 
 ### 📡 Data & Streaming
-📊 Kafka • 📡 Zookeeper • 📥 Logstash • 🐇 RabbitMQ • 🦊 Redpanda
+📊 Kafka<br>📡 Zookeeper<br>📥 Logstash<br>🐇 RabbitMQ<br>🦊 Redpanda
 
 </td>
 <td valign="top">
 
 ### 🔐 Identity & Web
-🦄 Keycloak • 🔑 KeyDB • ☕ Tomcat • 🧩 WildFly • 🗄️ OpenLDAP • 📜 EJBCA
+🦄 Keycloak<br>🔑 KeyDB<br>☕ Tomcat<br>🧩 WildFly<br>🗄️ OpenLDAP<br>📜 EJBCA
 
 </td>
 </tr>
