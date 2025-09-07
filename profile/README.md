@@ -14,8 +14,7 @@ Created as community-driven alternatives after Bitnami charts moved to a commerc
 ### 🗄️ Databases
 - 🔴 Redis  
 - 🔴 Redis Cluster  
-- 🗂️ phpMyAdmin  
-- 🔧 Common  
+- 🗂️ phpMyAdmin   
 
 </td>
 <td valign="top">
