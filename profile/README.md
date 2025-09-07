@@ -53,6 +53,7 @@ If any chart is abandoned by the community, **Opsolving adopts and maintains it*
 | Applications  | Argo CD         | Argo CD                | [argo-helm/argo-cd](https://github.com/argoproj/argo-helm/tree/main/charts/argo-cd) | ⚙️ | ⬜ |
 | Applications  | Argo Workflows  | Argo Workflows         | [argo-helm/argo-workflows](https://github.com/argoproj/argo-helm/tree/main/charts/argo-workflows) | ⚙️ | ⬜ |
 | Applications  | Nominatim       | Nominatim              | [robjuz/helm-charts/nominatim](https://github.com/robjuz/helm-charts/tree/master/charts/nominatim) | 📦 | ⬜ |
+| Applications  | Jenkins         | Jenkins               | [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts/tree/main/charts/jenkins) | 📦 | ⬜ |
 
 ---
 
