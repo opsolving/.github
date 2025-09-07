@@ -12,12 +12,10 @@ Created as community-driven alternatives after Bitnami charts moved to a commerc
 <td valign="top">
 
 ### 🗄️ Databases
-- 🐘 PostgreSQL  
-- 🐬 MySQL  
-- 🍃 MongoDB  
-- 🔴 Redis / Redis Cluster  
+- 🔴 Redis  
+- 🔴 Redis Cluster  
 - 🗂️ phpMyAdmin  
-- 🔧 Common Base Chart  
+- 🔧 Common  
 
 </td>
 <td valign="top">
@@ -26,6 +24,7 @@ Created as community-driven alternatives after Bitnami charts moved to a commerc
 - 📊 Kafka  
 - 📡 Zookeeper  
 - 📥 Logstash  
+- 🐇 RabbitMQ  
 
 </td>
 <td valign="top">
@@ -36,32 +35,12 @@ Created as community-driven alternatives after Bitnami charts moved to a commerc
 - ☕ Tomcat  
 - 🧩 WildFly  
 - 🗄️ OpenLDAP  
-
-</td>
-</tr>
-
-<tr>
-<td valign="top">
-
-### 🌍 Networking & Certificates
-- 🌐 NGINX  
-- 🔐 Cert Manager  
-- 🌍 External DNS  
-
-</td>
-<td valign="top">
-
-### 🗺️ Geo
-- 🗺️ Nominatim  
-
-</td>
-<td valign="top">
-
-&nbsp; <!-- pusty slot na przyszłość -->
+- 📜 EJBCA  
 
 </td>
 </tr>
 </table>
+
 
 ---
 
