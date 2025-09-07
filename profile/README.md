@@ -53,5 +53,5 @@ Some charts have well-maintained operator- or controller-based solutions that ex
 
 ## 🎯 Goal
 
-This repository maintains a set of free and accessible Helm charts for commonly used services,  
-while also providing references to operator-based solutions for cases where extended functionality is useful.
+This repository keeps a set of free and accessible Helm charts for commonly used services.  
+If any chart is abandoned by the community, **Opsolving adopts and maintains it** to ensure continuity, stability, and availability.
