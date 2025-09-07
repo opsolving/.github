@@ -39,10 +39,3 @@ Instead, use official **Percona Operators**:
 
 Operators provide:  
 ✅ High Availability • ✅ Automated Backups • ✅ Monitoring Integration • ✅ Full Lifecycle Management
-
----
-
-## 🎯 Goal
-
-The purpose of this repository is to keep free and accessible charts available for **testing, prototyping, and education**,  
-while encouraging the use of **operators** for reliable production-grade deployments.
