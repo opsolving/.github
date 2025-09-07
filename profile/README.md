@@ -31,14 +31,14 @@ The charts are designed as community-driven alternatives to commercial offerings
 For production-grade **databases**, Helm charts from this repository are **not recommended**.  
 Instead, use official **Percona Operators**:
 
-| Chart        | Recommended Operator | Link                                                                 |
-|--------------|----------------------|----------------------------------------------------------------------|
-| 🐘 PostgreSQL | Percona PostgreSQL Operator | [GitHub](https://github.com/percona/percona-helm-charts/tree/main/charts/pg-operator) |
-| 🐬 MySQL      | Percona MySQL Operator      | [GitHub](https://github.com/percona/percona-helm-charts/tree/main/charts/mysql-operator) |
-| 🍃 MongoDB    | Percona MongoDB Operator    | [GitHub](https://github.com/percona/percona-helm-charts/tree/main/charts/psmdb-operator) |
+| Chart        | Recommended Operator                  | Link                                                                 |
+|--------------|---------------------------------------|----------------------------------------------------------------------|
+| 🐘 PostgreSQL | Percona PostgreSQL Operator           | [GitHub](https://github.com/percona/percona-helm-charts/tree/main/charts/pg-operator) |
+| 🐬 MySQL      | Percona XtraDB Cluster Operator (PXC) | [GitHub](https://github.com/percona/percona-helm-charts/tree/main/charts/pxc-operator) |
+| 🍃 MongoDB    | Percona MongoDB Operator              | [GitHub](https://github.com/percona/percona-helm-charts/tree/main/charts/psmdb-operator) |
 
 Operators provide:  
-✅ High Availability • ✅ Automated Backups • ✅ Monitoring Integration • ✅ Full Lifecycle Management  
+✅ High Availability • ✅ Automated Backups • ✅ Monitoring Integration • ✅ Full Lifecycle Management
 
 ---
 
