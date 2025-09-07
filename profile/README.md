@@ -26,17 +26,17 @@ Created as community-driven alternatives after Bitnami charts moved to a commerc
 
 ---
 
-## ⚡ Alternative Operators
+## ⚡ Alternatives
 
-For databases, there are also well-maintained operator-based solutions from Percona that extend functionality with automation and advanced management features:  
+Some charts have well-maintained operator- or controller-based solutions that extend functionality with automation and advanced management features:  
 
-| Chart        | Operator                               | Link                                                                 |
-|----------------|----------------------------------------|----------------------------------------------------------------------|
-| 🐘 PostgreSQL  | Percona PostgreSQL Operator            | [percona-helm-charts/pg-operator](https://github.com/percona/percona-helm-charts/tree/main/charts/pg-operator) |
-| 🐬 MySQL       | Percona XtraDB Cluster Operator (PXC)  | [percona-helm-charts/pxc-operator](https://github.com/percona/percona-helm-charts/tree/main/charts/pxc-operator) |
-| 🍃 MongoDB     | Percona MongoDB Operator               | [percona-helm-charts/psmdb-operator](https://github.com/percona/percona-helm-charts/tree/main/charts/psmdb-operator) |
-| 🔐 Cert Manager | Official cert-manager Chart          | [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager/tree/master/deploy/charts/cert-manager) |
-| 🌍 External DNS | Official External DNS Chart          | [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns/tree/master/charts/external-dns) |
+| Chart          | Alternative                             | Link                                                                 | Type        |
+|----------------|-----------------------------------------|----------------------------------------------------------------------|-------------|
+| 🐘 PostgreSQL   | Percona PostgreSQL Operator             | [percona-helm-charts/pg-operator](https://github.com/percona/percona-helm-charts/tree/main/charts/pg-operator) | ✅ Operator |
+| 🐬 MySQL        | Percona XtraDB Cluster Operator (PXC)   | [percona-helm-charts/pxc-operator](https://github.com/percona/percona-helm-charts/tree/main/charts/pxc-operator) | ✅ Operator |
+| 🍃 MongoDB      | Percona MongoDB Operator                | [percona-helm-charts/psmdb-operator](https://github.com/percona/percona-helm-charts/tree/main/charts/psmdb-operator) | ✅ Operator |
+| 🔐 Cert Manager | Official Cert Manager Chart             | [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager/tree/master/deploy/charts/cert-manager) | ⚙️ Controller |
+| 🌍 External DNS | Official External DNS Chart             | [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns/tree/master/charts/external-dns) | ⚙️ Controller |
 
 Operators offer:  
 ✅ High Availability • ✅ Automated Backups • ✅ Monitoring Integration • ✅ Full Lifecycle Management  
