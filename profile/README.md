@@ -55,7 +55,7 @@ Some charts have well-maintained operator- or controller-based solutions that ex
 
 - 🛠️ Operator  
 - ⚙️ Controller  
-- 📦 Helm Chart  
+- 📦 Deployment
 - ⬜ Planned adoption (if abandoned by community)  
 - ☑️ Adopted by Opsolving (active maintenance)
 
