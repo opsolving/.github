@@ -26,15 +26,24 @@ The charts are designed as community-driven alternatives to commercial offerings
 
 ---
 
-## ✅ Recommended Usage
+## ⚠️ Recommended Usage
 
-For **databases** such as MySQL, PostgreSQL, and MongoDB it is recommended to use **Percona Operators** instead of standalone Helm charts.  
-Operators provide advanced features like high availability, automated backups, monitoring integration, and better lifecycle management.
+> **Important Note:**  
+> For production-grade database deployments, Helm charts are **not recommended**.  
+> Instead, use **Percona Operators** for:
+>
+> - 🐘 PostgreSQL  
+> - 🐬 MySQL  
+> - 🍃 MongoDB  
+>
+> Operators provide:
+> - ✅ High Availability  
+> - ✅ Automated Backups  
+> - ✅ Monitoring Integration  
+> - ✅ Better Lifecycle Management  
 
 ---
 
 ## 🎯 Goal
 
-The goal of this repository is to maintain free and accessible charts for testing, prototyping, and educational purposes, while encouraging production-grade deployments to move towards operators where available.
-
----
+The purpose of this repository is to keep free and accessible charts available for **testing, prototyping, and education**, while promoting the use of **operators** for reliable production setups.
