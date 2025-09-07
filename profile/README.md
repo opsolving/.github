@@ -7,7 +7,22 @@ Created as community-driven alternatives after Bitnami charts moved to a commerc
 
 ## 📚 Available Charts
 
-🐘 **PostgreSQL** • 🐬 **MySQL** • 🍃 **MongoDB** • 🦄 **Keycloak** • 🔑 **KeyDB** • ☕ **Tomcat** • 🐇 **RabbitMQ** • 🧩 **WildFly** • 🗄️ **OpenLDAP** • 🗂️ **phpMyAdmin** • 📊 **Kafka** • 📡 **Zookeeper** • 📥 **Logstash** • 🌐 **NGINX** • 🔴 **Redis / Redis Cluster** • 🔧 **Common Base Chart**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white&style=flat-square)  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=flat-square)  
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=flat-square)  
+![Keycloak](https://img.shields.io/badge/Keycloak-2C4C7E?logo=keycloak&logoColor=white&style=flat-square)  
+![KeyDB](https://img.shields.io/badge/KeyDB-D82C20?logo=redis&logoColor=white&style=flat-square)  
+![Tomcat](https://img.shields.io/badge/Tomcat-F8DC75?logo=apachetomcat&logoColor=black&style=flat-square)  
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?logo=rabbitmq&logoColor=white&style=flat-square)  
+![WildFly](https://img.shields.io/badge/WildFly-007ACC?logo=wildfly&logoColor=white&style=flat-square)  
+![OpenLDAP](https://img.shields.io/badge/OpenLDAP-1D76DB?logo=openldap&logoColor=white&style=flat-square)  
+![phpMyAdmin](https://img.shields.io/badge/phpMyAdmin-6C78AF?logo=php&logoColor=white&style=flat-square)  
+![Kafka](https://img.shields.io/badge/Kafka-231F20?logo=apachekafka&logoColor=white&style=flat-square)  
+![Zookeeper](https://img.shields.io/badge/Zookeeper-FFCA28?logo=apache&logoColor=black&style=flat-square)  
+![Logstash](https://img.shields.io/badge/Logstash-005571?logo=elastic&logoColor=white&style=flat-square)  
+![NGINX](https://img.shields.io/badge/NGINX-009639?logo=nginx&logoColor=white&style=flat-square)  
+![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white&style=flat-square)  
+![Common Base Chart](https://img.shields.io/badge/Common--Base--Chart-555555?style=flat-square)
 
 ---
 
