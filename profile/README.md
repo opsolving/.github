@@ -51,6 +51,12 @@ Some charts have well-maintained operator- or controller-based solutions that ex
 
 ---
 
+## ✅ Adoption Policy
+
+If any chart is abandoned by the community, **Opsolving adopts and actively maintains it** to ensure stability, availability, and long-term support.
+
+---
+
 ### 🔑 Legend
 
 - 🛠️ Operator  
@@ -64,4 +70,4 @@ Some charts have well-maintained operator- or controller-based solutions that ex
 ## 🎯 Goal
 
 This repository keeps a set of free and accessible Helm charts for commonly used services.  
-If any chart is abandoned by the community, **Opsolving adopts and maintains it** to ensure continuity, stability, and availability.
+The aim is to guarantee continuity, stability, and availability for the open-source ecosystem.
