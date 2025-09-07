@@ -28,22 +28,21 @@ The charts are designed as community-driven alternatives to commercial offerings
 
 ## ⚠️ Recommended Usage
 
-> **Important Note:**  
-> For production-grade database deployments, Helm charts are **not recommended**.  
-> Instead, use **Percona Operators** for:
->
-> - 🐘 PostgreSQL  
-> - 🐬 MySQL  
-> - 🍃 MongoDB  
->
-> Operators provide:
-> - ✅ High Availability  
-> - ✅ Automated Backups  
-> - ✅ Monitoring Integration  
-> - ✅ Better Lifecycle Management  
+For production-grade **databases**, Helm charts from this repository are **not recommended**.  
+Instead, use official **Percona Operators**:
+
+| Chart        | Recommended Operator | Link                                                                 |
+|--------------|----------------------|----------------------------------------------------------------------|
+| 🐘 PostgreSQL | Percona PostgreSQL Operator | [GitHub](https://github.com/percona/percona-helm-charts/tree/main/charts/pg-operator) |
+| 🐬 MySQL      | Percona MySQL Operator      | [GitHub](https://github.com/percona/percona-helm-charts/tree/main/charts/mysql-operator) |
+| 🍃 MongoDB    | Percona MongoDB Operator    | [GitHub](https://github.com/percona/percona-helm-charts/tree/main/charts/psmdb-operator) |
+
+Operators provide:  
+✅ High Availability • ✅ Automated Backups • ✅ Monitoring Integration • ✅ Full Lifecycle Management  
 
 ---
 
 ## 🎯 Goal
 
-The purpose of this repository is to keep free and accessible charts available for **testing, prototyping, and education**, while promoting the use of **operators** for reliable production setups.
+The purpose of this repository is to keep free and accessible charts available for **testing, prototyping, and education**,  
+while encouraging the use of **operators** for reliable production-grade deployments.
