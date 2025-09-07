@@ -38,7 +38,7 @@ If any chart is abandoned by the community, **Opsolving adopts and maintains it*
 
 Some charts have well-maintained operator- or controller-based solutions that extend functionality with automation and advanced management features:  
 
-| Chart          | Alternative                             | Link                                                                 | Type | ♻️ Adopted |
+| Chart          | Alternative                             | Link                                                                 | Type | Adopted |
 |----------------|-----------------------------------------|----------------------------------------------------------------------|------|------------|
 | 🐘 PostgreSQL   | Percona PostgreSQL Operator             | [percona-helm-charts/pg-operator](https://github.com/percona/percona-helm-charts/tree/main/charts/pg-operator) | 🛠️ | ⬜ |
 | 🐬 MySQL        | Percona XtraDB Cluster Operator (PXC)   | [percona-helm-charts/pxc-operator](https://github.com/percona/percona-helm-charts/tree/main/charts/pxc-operator) | 🛠️ | ⬜ |
