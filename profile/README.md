@@ -50,7 +50,7 @@ Some charts have well-maintained operator- or controller-based solutions that ex
 | 🗺️ Nominatim    | Community Nominatim Helm Chart          | [robjuz/helm-charts/nominatim](https://github.com/robjuz/helm-charts/tree/master/charts/nominatim) | 📦 | ⬜ |
 | 🎯 Argo CD      | Official Argo CD Chart                  | [argo-helm/argo-cd](https://github.com/argoproj/argo-helm/tree/main/charts/argo-cd) | ⚙️ | ⬜ |
 | 🎯 Argo Workflows | Official Argo Workflows Chart         | [argo-helm/argo-workflows](https://github.com/argoproj/argo-helm/tree/main/charts/argo-workflows) | ⚙️ | ⬜ |
-
+| 🍪 CouchDB      | Official Apache CouchDB Chart           | [apache/couchdb-helm](https://github.com/apache/couchdb-helm/tree/main/couchdb) | 📦 | ⬜ |
 
 ---
 
