@@ -36,6 +36,7 @@ For databases, there are also well-maintained operator-based solutions from Perc
 | 🐬 MySQL       | Percona XtraDB Cluster Operator (PXC)  | [percona-helm-charts/pxc-operator](https://github.com/percona/percona-helm-charts/tree/main/charts/pxc-operator) |
 | 🍃 MongoDB     | Percona MongoDB Operator               | [percona-helm-charts/psmdb-operator](https://github.com/percona/percona-helm-charts/tree/main/charts/psmdb-operator) |
 | 🔐 Cert Manager | Official cert-manager Chart          | [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager/tree/master/deploy/charts/cert-manager) |
+| 🌍 External DNS | Official External DNS Chart          | [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns/tree/master/charts/external-dns) |
 
 Operators offer:  
 ✅ High Availability • ✅ Automated Backups • ✅ Monitoring Integration • ✅ Full Lifecycle Management  
