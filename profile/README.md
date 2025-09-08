@@ -9,22 +9,22 @@ If any chart is abandoned by the community, **Opsolving adopts and maintains it*
 
 ## 📚 Available Charts
 
-| Chart        | Maintained Versions   |
-|--------------|-----------------------|
-| Redis        | 7.X, 8.X             |
-| EJBCA        | 9.X                  |
-| Kafka        | 3.X, 4.X             |
-| Keycloak     | 26.X                 |
-| KeyDB        | 6.X                  |
-| Logstash     | 8.X, 9.X             |
-| MariaDB      | 12.X                 |
-| Memcached    | 1.X                  |
-| NGINX        | 1.X                  |
-| phpMyAdmin   | 5.X                  |
-| Tomcat       | 9.X, 10.X, 11.x      |
-| WildFly      | 37.X                 |
-| PostgreSQL   | 14, 15, 16, 17       |
-| Zookeeper    | 37.X                 |
+| Chart        | Current | Planned     |
+|--------------|---------|-------------|
+| Redis        | 8.X     | 7.X         |
+| EJBCA        | 9.X     |             |
+| Kafka        | 3.X     | 4.X         |
+| Keycloak     | 26.X    |             |
+| KeyDB        | 6.X     |             |
+| Logstash     | 9.X     | 8.X         |
+| MariaDB      | 12.X    |             |
+| Memcached    | 1.X     |             |
+| NGINX        | 1.29.X  |             |
+| phpMyAdmin   | 5.X     |             |
+| Tomcat       | 11.X    | 9.X, 10.X   |
+| WildFly      | 37.X    |             |
+| PostgreSQL   | 17      | 14, 15, 16  |
+| Zookeeper    | 37.X    |             |
 
 ---
 
