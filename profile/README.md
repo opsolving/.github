@@ -7,7 +7,7 @@ If any chart is abandoned by the community, **Opsolving adopts and maintains it*
 
 ---
 
-## 📚 Available Charts without good alternatives
+## 📚 Available Charts Without Good Alternatives
 
 | Chart         | Current | Planned           |
 |---------------|---------|-------------------|
@@ -29,7 +29,7 @@ If any chart is abandoned by the community, **Opsolving adopts and maintains it*
 
 ---
 
-## ⚡ Alternatives for `bitnami`
+## ⚡ Google alternatives for `bitnami`
 
 | Category      | Bitnami Chart   | Alternative            | Link                                                                 | Type | Adopted |
 |---------------|-----------------|------------------------|----------------------------------------------------------------------|------|------------|
