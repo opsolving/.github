@@ -17,11 +17,11 @@ If any chart is abandoned by the community, **Opsolving adopts and maintains it*
 | Keycloak     | 26.X                 |
 | KeyDB        | 6.X                  |
 | Logstash     | 8.X, 9.X             |
-| MariaDB      | 12.X, 13.X           |
+| MariaDB      | 12.X                 |
 | Memcached    | 1.X                  |
-| NGINX        | 1.29.X               |
+| NGINX        | 1.X                  |
 | phpMyAdmin   | 5.X                  |
-| Tomcat       | 4.0, 6.X             |
+| Tomcat       | 9.X, 10.X, 11.x      |
 | WildFly      | 37.X                 |
 | PostgreSQL   | 14, 15, 16, 17       |
 | Zookeeper    | 37.X                 |
