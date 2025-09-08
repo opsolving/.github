@@ -9,28 +9,22 @@ If any chart is abandoned by the community, **Opsolving adopts and maintains it*
 
 ## 📚 Available Charts
 
-<table>
-<tr>
-<td valign="top">
-
-### 🗄️ Databases
-🐘 PostgreSQL<br>🐬 MySQL<br>🍃 MongoDB<br>🔴 Redis<br>🔴 Redis Cluster<br>🗂️ phpMyAdmin
-
-</td>
-<td valign="top">
-
-### 📡 Data & Streaming
-📊 Kafka<br>📡 Zookeeper<br>📥 Logstash<br>🐇 RabbitMQ<br>🦊 Redpanda
-
-</td>
-<td valign="top">
-
-### 🔐 Identity & Web
-🦄 Keycloak<br>🔑 KeyDB<br>☕ Tomcat<br>🧩 WildFly<br>🗄️ OpenLDAP<br>📜 EJBCA
-
-</td>
-</tr>
-</table>
+| Chart        | Maintained Versions   |
+|--------------|-----------------------|
+| Redis        | 7.X, 8.X             |
+| EJBCA        | 9.X                  |
+| Kafka        | 3.X, 4.X             |
+| Keycloak     | 26.X                 |
+| KeyDB        | 6.X                  |
+| Logstash     | 8.X, 9.X             |
+| MariaDB      | 12.X, 13.X           |
+| Memcached    | 1.X                  |
+| NGINX        | 1.29.X               |
+| phpMyAdmin   | 5.X                  |
+| Tomcat       | 4.0, 6.X             |
+| WildFly      | 37.X                 |
+| PostgreSQL   | 14, 15, 16, 17       |
+| Zookeeper    | 37.X                 |
 
 ---
 
