@@ -58,8 +58,8 @@ If any chart is abandoned by the community, **Opsolving adopts and maintains it*
 | Applications  | Airflow         | Official Apache Airflow          | [apache/airflow/chart](https://github.com/apache/airflow/tree/main/chart) | 📦 | ⬜ |
 | Applications  | Flink           | Official Apache Flink `(2)`            | [apache/flink-kubernetes-operator](https://github.com/apache/flink-kubernetes-operator) | 🛠️ | ⬜ |
 
-`(1)` - bitnami/postgresql dependency
-`(2)` - limited, not all configurations can be set as desired.
+ - `(1)` - bitnami/postgresql dependency
+ - `(2)` - limited, not all configurations can be set as desired.
 
 ---
 
