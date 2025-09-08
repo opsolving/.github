@@ -44,7 +44,7 @@ If any chart is abandoned by the community, **Opsolving adopts and maintains it*
 | Data          | Kafka           | Official Redpanda      | [redpanda-operator/operator/chart](https://github.com/redpanda-data/redpanda-operator/tree/main/operator/chart) | 🛠️ | ⬜ |
 | Data          | InfluxDB        | Official InfluxDB      | [influxdata/helm-charts](https://github.com/influxdata/helm-charts) | 📦 | ⬜ |
 | Data          | OpenSearch      | Official OpenSearch    | [opensearch-project/helm-charts](https://github.com/opensearch-project/helm-charts/tree/main/charts) | 📦 | ⬜ |
-| Data          | Solr            | Solr                  | [apache/solr-operator](https://github.com/apache/solr-operator/tree/main/helm) | 🛠️ | ⬜ |
+| Data          | Solr            | Official Solr                  | [apache/solr-operator](https://github.com/apache/solr-operator/tree/main/helm) | 🛠️ | ⬜ |
 | Networking    | External DNS    | Official External DNS   | [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns/tree/master/charts/external-dns) | ⚙️ | ⬜ |
 | Networking    | Consul          | Official Consul (HashiCrop)     | [hashicorp/consul-k8s](https://github.com/hashicorp/consul-k8s/tree/main/charts/consul) | 📦 | ⬜ |
 | Networking    | Kong            | Official Kong                  | [Kong/charts](https://github.com/Kong/charts/tree/main/charts) | 📦 | ⬜ |
