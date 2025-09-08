@@ -52,12 +52,11 @@ If any chart is abandoned by the community, **Opsolving adopts and maintains it*
 | Identity      | Vault           | Official Vault (HashiCrop)               | [hashicorp/vault-helm](https://github.com/hashicorp/vault-helm) | 📦 | ⬜ | 5/5 |
 | Applications  | Argo CD         | Official Argo CD                | [argo-helm/argo-cd](https://github.com/argoproj/argo-helm/tree/main/charts/argo-cd) | ⚙️ | ⬜ | 5/5 |
 | Applications  | Argo Workflows  | Official Argo Workflows         | [argo-helm/argo-workflows](https://github.com/argoproj/argo-helm/tree/main/charts/argo-workflows) | ⚙️ | ⬜ | 5/5 |
-| Applications  | Nominatim       | Nominatim              | [robjuz/helm-charts/nominatim](https://github.com/robjuz/helm-charts/tree/master/charts/nominatim) | 📦 | ⬜ | 5/5 |
+| Applications  | Nominatim       | Nominatim              | [robjuz/helm-charts/nominatim](https://github.com/robjuz/helm-charts/tree/master/charts/nominatim) | 📦 | ⬜ | 4/5 |
 | Applications  | Jenkins         | Official Jenkins               | [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts/tree/main/charts/jenkins) | 📦 | ⬜ | 5/5 |
 | Applications  | SonarQube       | Official SonarQube             | [SonarSource/helm-chart-sonarqube](https://github.com/SonarSource/helm-chart-sonarqube/tree/master/charts) | 📦 | ⬜ | 5/5 |
 | Applications  | Airflow         | Official Apache Airflow          | [apache/airflow/chart](https://github.com/apache/airflow/tree/main/chart) | 📦 | ⬜ | 5/5 |
 | Applications  | Flink           | Official Apache Flink            | [apache/flink-kubernetes-operator](https://github.com/apache/flink-kubernetes-operator) | 🛠️ | ⬜ | 4/5 |
-
 
 ---
 
