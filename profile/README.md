@@ -49,7 +49,7 @@ If any chart is abandoned by the community, **Opsolving adopts and maintains it*
 | Metrics    | InfluxDB               | [influxdata/helm](https://github.com/influxdata/helm-charts/tree/master/charts)                                     | 📦        |
 |            | Telegraf               | [influxdata/helm](https://github.com/influxdata/helm-charts/tree/master/charts)                                     | 🛠️ / 📦  |
 | Networking | External DNS           | [kubernetes/helm](https://github.com/kubernetes-sigs/external-dns/tree/master/charts/external-dns)                  | ⚙️        |
-| Search     | Apache Solr            | [apache/solr](https://github.com/apache/solr-operator/tree/main/helm)                                               | 🛠️       |
+| Search     | Apache Solr            | [apache/helm](https://github.com/apache/solr-operator/tree/main/helm)                                               | 🛠️       |
 | Security   | Vault                  | [hashicorp/helm](https://github.com/hashicorp/vault-helm)                                                           | 📦        |
 |            | cert-manager           | [cert-manager/helm](https://github.com/cert-manager/cert-manager/tree/master/deploy/charts/cert-manager)            | ⚙️        |
 | Streaming  | Redpanda               | [redpanda/helm](https://github.com/redpanda-data/redpanda-operator/tree/main/charts/redpanda)                       | 📦        |
