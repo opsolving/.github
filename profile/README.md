@@ -16,7 +16,6 @@ If any chart is abandoned by the community, **Opsolving adopts and maintains it*
 | Extra Manifest | 9.X     |                   |
 | Keycloak       | 26.X    |                   |
 | KeyDB          | 6.X     |                   |
-| Logstash       | 9.X     | 8.X               |
 | MariaDB        | 12.X    | 10.11, 11.4, 11.8 |
 | Memcached      | 1.X     |                   |
 | NGINX          | 1.29.X  |                   |
@@ -59,6 +58,7 @@ If any chart is abandoned by the community, **Opsolving adopts and maintains it*
 | Applications  | SonarQube             | Official SonarQube             | [SonarSource/helm-chart-sonarqube](https://github.com/SonarSource/helm-chart-sonarqube/tree/master/charts) | 📦 | ⬜ |
 | Applications  | Airflow               | Official Apache Airflow          | [apache/airflow/chart](https://github.com/apache/airflow/tree/main/chart) | 📦 | ⬜ |
 | Applications  | Flink                 | Official Apache Flink `(2)`            | [apache/flink-kubernetes-operator](https://github.com/apache/flink-kubernetes-operator) | 🛠️ | ⬜ |
+| Applications  | Logstash/Elastic etc. | Official Elastic             | [elastic/eck-operator](https://www.elastic.co/docs/deploy-manage/deploy/cloud-on-k8s/managing-deployments-using-helm-chart) | 🛠️ | ⬜ |
 
  - `(1)` - bitnami/postgresql dependency
  - `(2)` - limited, not all configurations can be set as desired.
