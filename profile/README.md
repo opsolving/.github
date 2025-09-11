@@ -59,7 +59,7 @@ If any chart is abandoned by the community, **Opsolving adopts and maintains it*
 | Applications | Argo Workflows      | Argo Workflows         | [argo/helm/argo-workflows](https://github.com/argoproj/argo-helm/tree/main/charts/argo-workflows)                   | ⚙️       | ⬜       |
 | Applications | Nominatim           | RobJuz Nominatim `(1)` | [robjuz/helm/nominatim](https://github.com/robjuz/helm-charts/tree/master/charts/nominatim)                         | 📦       | ⬜       |
 | Applications | Jenkins             | Jenkins                | [jenkinsci/helm](https://github.com/jenkinsci/helm-charts/tree/main/charts/jenkins)                                 | 📦       | ⬜       |
-| Applications | SonarQube           | SonarQube              | [SonarSource/helm](https://github.com/SonarSource/helm-chart-sonarqube/tree/master/charts)                          | 📦       | ⬜       |
+| Applications | SonarQube           | SonarQube              | [sonarsource/helm](https://github.com/SonarSource/helm-chart-sonarqube/tree/master/charts)                          | 📦       | ⬜       |
 | Applications | Airflow             | Apache Airflow         | [apache/helm](https://github.com/apache/airflow/tree/main/chart)                                                    | 📦       | ⬜       |
 | Applications | Flink               | Apache Flink `(2)`     | [apache/helm](https://github.com/apache/flink-kubernetes-operator)                                                  | 🛠️      | ⬜       |
 | Applications | Logstash/Elastic/.. | Elastic                | [elastic/helm](https://www.elastic.co/docs/deploy-manage/deploy/cloud-on-k8s/managing-deployments-using-helm-chart) | 🛠️      | ⬜       |
