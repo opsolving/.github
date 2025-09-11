@@ -11,6 +11,7 @@ If any chart is abandoned by the community, **Opsolving adopts and maintains it*
 
 | Chart         | Current | Planned           |
 |---------------|---------|-------------------|
+| Cassandra     | 5.X     |                   |
 | EJBCA         | 9.X     |                   |
 | Keycloak      | 26.X    |                   |
 | KeyDB         | 6.X     |                   |
