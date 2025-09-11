@@ -55,7 +55,7 @@ If any chart is abandoned by the community, **Opsolving adopts and maintains it*
 | Applications | Argo CD              | Argo CD                | [argo/helm](https://github.com/argoproj/argo-helm/tree/main/charts/argo-cd)                                         | ⚙️        | ⬜       |
 | Applications | Argo Workflows       | Argo Workflows         | [argo/helm](https://github.com/argoproj/argo-helm/tree/main/charts/argo-workflows)                                  | ⚙️        | ⬜       |
 | Applications | Nominatim            | RobJuz Nominatim `(1)` | [robjuz/helm](https://github.com/robjuz/helm-charts/tree/master/charts/nominatim)                                   | 📦        | ⬜       |
-| Applications | Jenkins              | Jenkins                | [jenkinsci/helm](https://github.com/jenkinsci/helm-charts/tree/main/charts/jenkins)                                 | 📦        | ⬜       |
+| Applications | Jenkins              | Jenkins                | [jenkinsci/helm](https://github.com/jenkinsci/helm-charts/tree/main/charts/jenkins)                                 | ⚙️        | ⬜       |
 | Applications | SonarQube            | SonarQube              | [sonarsource/helm](https://github.com/SonarSource/helm-chart-sonarqube/tree/master/charts)                          | 📦        | ⬜       |
 | Applications | Airflow              | Apache Airflow         | [apache/helm](https://github.com/apache/airflow/tree/main/chart)                                                    | 📦        | ⬜       |
 | Applications | Flink                | Apache Flink `(2)`     | [apache/helm](https://github.com/apache/flink-kubernetes-operator)                                                  | 🛠️       | ⬜       |
