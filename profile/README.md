@@ -12,8 +12,6 @@ If any chart is abandoned by the community, **Opsolving adopts and maintains it*
 
 ## 📚 [Available Helm Charts](https://github.com/opsolving/charts)
 
-### Base Charts
-
 | Chart                                                                                    | Current |
 |------------------------------------------------------------------------------------------|---------|
 | [Common](https://github.com/opsolving/charts/tree/main/opsolving/common)                 | 2.31.4  |
