@@ -42,14 +42,14 @@ If any chart is abandoned by the community, **Opsolving adopts and maintains it*
 | Geospatial | Nominatim              | [robjuz/helm](https://github.com/robjuz/helm-charts/tree/master/charts/nominatim)                                   | 📦        |
 | Gateway    | Kong                   | [kong/helm](https://github.com/Kong/charts/tree/main/charts)                                                        | 🛠️ / 📦  |
 | Logging    | Elastic Stack (ECK)    | [elastic/helm](https://www.elastic.co/docs/deploy-manage/deploy/cloud-on-k8s/managing-deployments-using-helm-chart) | 🛠️       |
-|            | Consul                 | [hashicorp/helm](https://github.com/hashicorp/consul-k8s/tree/main/charts/consul)                                   | 📦        |
-|            | Istio                  | [istio/helm](https://github.com/istio/istio/tree/master/manifests/charts)                                           | ⚙️        |
+|            | OpenSearch             | [opensearch/helm](https://github.com/opensearch-project/helm-charts/tree/main/charts)                               | 📦        |
+| Mesh       | Consul                 | [hashicorp/helm](https://github.com/hashicorp/consul-k8s/tree/main/charts/consul)                                   | 📦        |
+| Mesh       | Istio                  | [istio/helm](https://github.com/istio/istio/tree/master/manifests/charts)                                           | ⚙️        |
 |            | Kiali                  | [kiali/helm](https://kiali.io/docs/installation/installation-guide/install-with-helm/)                              | 🛠️ / 📦  |
 | Metrics    | InfluxDB               | [influxdata/helm](https://github.com/influxdata/helm-charts/tree/master/charts)                                     | 📦        |
 |            | Telegraf               | [influxdata/helm](https://github.com/influxdata/helm-charts/tree/master/charts)                                     | 🛠️ / 📦  |
 | Networking | External DNS           | [kubernetes/helm](https://github.com/kubernetes-sigs/external-dns/tree/master/charts/external-dns)                  | ⚙️        |
 | Search     | Apache Solr            | [apache/solr](https://github.com/apache/solr-operator/tree/main/helm)                                               | 🛠️       |
-|            | OpenSearch             | [opensearch/helm](https://github.com/opensearch-project/helm-charts/tree/main/charts)                               | 📦        |
 | Security   | Vault                  | [hashicorp/helm](https://github.com/hashicorp/vault-helm)                                                           | 📦        |
 |            | cert-manager           | [cert-manager/helm](https://github.com/cert-manager/cert-manager/tree/master/deploy/charts/cert-manager)            | ⚙️        |
 | Streaming  | Redpanda               | [redpanda/helm](https://github.com/redpanda-data/redpanda-operator/tree/main/charts/redpanda)                       | 📦        |
