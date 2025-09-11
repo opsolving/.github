@@ -11,10 +11,10 @@ If any chart is abandoned by the community, **Opsolving adopts and maintains it*
 
 ### Base Charts
 
-| Chart          | Current | Planned |
-|----------------|---------|---------|
-| Common         | 5.X     |         |
-| Extra Manifest | 9.X     |         |
+| Chart          | Current |
+|----------------|---------|
+| Common         | 2.31.4  |
+| Extra Manifest | 1.0.0   |
 
 ---
 
