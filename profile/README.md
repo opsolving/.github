@@ -58,7 +58,10 @@ If any chart is abandoned by the community, **Opsolving adopts and maintains it*
 | Applications  | SonarQube             | Official SonarQube             | [SonarSource/helm-chart-sonarqube](https://github.com/SonarSource/helm-chart-sonarqube/tree/master/charts) | 📦 | ⬜ |
 | Applications  | Airflow               | Official Apache Airflow          | [apache/airflow/chart](https://github.com/apache/airflow/tree/main/chart) | 📦 | ⬜ |
 | Applications  | Flink                 | Official Apache Flink `(2)`            | [apache/flink-kubernetes-operator](https://github.com/apache/flink-kubernetes-operator) | 🛠️ | ⬜ |
-| Applications  | Logstash/Elastic etc. | Official Elastic             | [elastic/eck-operator](https://www.elastic.co/docs/deploy-manage/deploy/cloud-on-k8s/managing-deployments-using-helm-chart) | 🛠️ | ⬜ |
+| Applications  | Logstash/Elastic/..   | Official Elastic             | [elastic/eck-operator](https://www.elastic.co/docs/deploy-manage/deploy/cloud-on-k8s/managing-deployments-using-helm-chart) | 🛠️ | ⬜ |
+| Applications  | InfluxDB              | Official InfluxDB             | [influxdb/chart](https://github.com/influxdata/helm-charts/tree/master/charts) | 📦 | ⬜ |
+
+
 
  - `(1)` - bitnami/postgresql dependency
  - `(2)` - limited, not all configurations can be set as desired.
