@@ -1,9 +1,9 @@
 # 📦 Opsolving Helm Charts
 
 A collection of **open-source Helm charts** for widely used services and components.  
-Created as community-driven alternatives after Bitnami charts moved to a commercial model.  
+Created as community-driven alternatives after Bitnami charts moved to a commercial model.
 
-If any chart is abandoned by the community, **Opsolving adopts and maintains it** to keep it available and up to date.  
+If any chart is abandoned by the community, **Opsolving adopts and maintains it** to keep it available and up to date.
 
 ---
 
@@ -29,62 +29,58 @@ If any chart is abandoned by the community, **Opsolving adopts and maintains it*
 
 ## ⚡ Google alternatives for `bitnami`
 
-| Category      | Bitnami Chart         | Alternative            | Link                                                                 | Type | Adopted |
-|---------------|-----------------------|------------------------|----------------------------------------------------------------------|------|------------|
-| Databases     | PostgreSQL            | Percona PostgreSQL     | [percona-helm-charts/pg-operator](https://github.com/percona/percona-helm-charts/tree/main/charts/pg-operator) | 🛠️ | ⬜ |
-| Databases     | MySQL                 | Percona XtraDB Cluster | [percona-helm-charts/pxc-operator](https://github.com/percona/percona-helm-charts/tree/main/charts/pxc-operator) | 🛠️ | ⬜ |
-| Databases     | MongoDB               | Percona MongoDB        | [percona-helm-charts/psmdb-operator](https://github.com/percona/percona-helm-charts/tree/main/charts/psmdb-operator) | 🛠️ | ⬜ |
-| Databases     | CouchDB               | Official Apache CouchDB         | [apache/couchdb-helm](https://github.com/apache/couchdb-helm/tree/main/couchdb) | 📦 | ⬜ |
-| Databases     | Couchbase             | Official Couchbase              | [couchbase-partners/helm-charts/couchbase-operator](https://github.com/couchbase-partners/helm-charts/tree/master/charts/couchbase-operator) | 🛠️ | ⬜ |
-| Databases     | Cassandra             | Official ScyllaDB              | [scylladb/scylla-operator](https://github.com/scylladb/scylla-operator/tree/master/helm) | 🛠️ | ⬜ |
-| Databases     | Redis Standalone      | Redis from Opstree     | [OT-CONTAINER-KIT/redis-operator](https://github.com/OT-CONTAINER-KIT/redis-operator/tree/main/charts/redis-operator) | 🛠️ | ⬜ |
-| Databases     | Redis Master+Replica  | Redis from Opstree     | [OT-CONTAINER-KIT/redis-operator](https://github.com/OT-CONTAINER-KIT/redis-operator/tree/main/charts/redis-operator) | 🛠️ | ⬜ |
-| Databases     | Redis Cluster         | Redis from Opstree     | [OT-CONTAINER-KIT/redis-operator](https://github.com/OT-CONTAINER-KIT/redis-operator/tree/main/charts/redis-operator) | 🛠️ | ⬜ |
-| Databases     | Redis Sentinel        | Redis from Opstree     | [OT-CONTAINER-KIT/redis-operator](https://github.com/OT-CONTAINER-KIT/redis-operator/tree/main/charts/redis-operator) | 🛠️ | ⬜ |
-| Data          | Kafka                 | Official Redpanda      | [redpanda/charts/controller](https://github.com/redpanda-data/redpanda-operator/tree/main/charts/redpanda) | ⚙️ | ⬜ |
-| Data          | Kafka                 | Official Redpanda      | [redpanda/chart/operator](https://github.com/redpanda-data/redpanda-operator/tree/main/operator/chart) | 🛠️ | ⬜ |
-| Data          | InfluxDB              | Official InfluxDB      | [influxdata/helm-charts](https://github.com/influxdata/helm-charts) | 📦 | ⬜ |
-| Data          | OpenSearch            | Official OpenSearch    | [opensearch-project/helm-charts](https://github.com/opensearch-project/helm-charts/tree/main/charts) | 📦 | ⬜ |
-| Data          | Solr                  | Official Solr                  | [apache/solr-operator](https://github.com/apache/solr-operator/tree/main/helm) | 🛠️ | ⬜ |
-| Networking    | External DNS          | Official External DNS   | [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns/tree/master/charts/external-dns) | ⚙️ | ⬜ |
-| Networking    | Consul                | Official Consul (HashiCrop)     | [hashicorp/consul-k8s](https://github.com/hashicorp/consul-k8s/tree/main/charts/consul) | 📦 | ⬜ |
-| Networking    | Kong                  | Official Kong                  | [Kong/charts](https://github.com/Kong/charts/tree/main/charts) | 📦 | ⬜ |
-| Identity      | Cert Manager          | Official Cert Manager           | [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager/tree/master/deploy/charts/cert-manager) | ⚙️ | ⬜ |
-| Identity      | Vault                 | Official Vault (HashiCrop)               | [hashicorp/vault-helm](https://github.com/hashicorp/vault-helm) | 📦 | ⬜ |
-| Applications  | Argo CD               | Official Argo CD                | [argo-helm/argo-cd](https://github.com/argoproj/argo-helm/tree/main/charts/argo-cd) | ⚙️ | ⬜ |
-| Applications  | Argo Workflows        | Official Argo Workflows         | [argo-helm/argo-workflows](https://github.com/argoproj/argo-helm/tree/main/charts/argo-workflows) | ⚙️ | ⬜ |
-| Applications  | Nominatim             | RobJuz Nominatim `(1)`             | [robjuz/helm-charts/nominatim](https://github.com/robjuz/helm-charts/tree/master/charts/nominatim) | 📦 | ⬜ |
-| Applications  | Jenkins               | Official Jenkins               | [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts/tree/main/charts/jenkins) | 📦 | ⬜ |
-| Applications  | SonarQube             | Official SonarQube             | [SonarSource/helm-chart-sonarqube](https://github.com/SonarSource/helm-chart-sonarqube/tree/master/charts) | 📦 | ⬜ |
-| Applications  | Airflow               | Official Apache Airflow          | [apache/airflow/chart](https://github.com/apache/airflow/tree/main/chart) | 📦 | ⬜ |
-| Applications  | Flink                 | Official Apache Flink `(2)`            | [apache/flink-kubernetes-operator](https://github.com/apache/flink-kubernetes-operator) | 🛠️ | ⬜ |
-| Applications  | Logstash/Elastic/..   | Official Elastic             | [elastic/eck-operator](https://www.elastic.co/docs/deploy-manage/deploy/cloud-on-k8s/managing-deployments-using-helm-chart) | 🛠️ | ⬜ |
-| Applications  | InfluxDB              | Official InfluxDB             | [influxdb/chart](https://github.com/influxdata/helm-charts/tree/master/charts) | 📦 | ⬜ |
-| Applications  | Kiali                 | Official Kiali             | [kiali](https://kiali.io/docs/installation/installation-guide/install-with-helm/) | 🛠️ / 📦 | ⬜ |
-| Applications  | Jaeger                | Official Jaeger             | [influxdb/chart](https://github.com/jaegertracing/helm-charts/tree/main/charts) | 🛠️ / 📦 | ⬜ |
+| Category     | Bitnami Chart        | Alternative                 | Link                                                                                                                                         | Type     | Adopted |
+|--------------|----------------------|-----------------------------|----------------------------------------------------------------------------------------------------------------------------------------------|----------|---------|
+| Databases    | PostgreSQL           | Percona PostgreSQL          | [percona/charts](https://github.com/percona/percona-helm-charts/tree/main/charts)                                                            | 🛠️      | ⬜       |
+| Databases    | MySQL                | Percona XtraDB Cluster      |                                                                                                                                              | 🛠️      | ⬜       |
+| Databases    | MongoDB              | Percona MongoDB             |                                                                                                                                              | 🛠️      | ⬜       |
+| Databases    | CouchDB              | Official Apache CouchDB     | [apache/helm](https://github.com/apache/couchdb-helm/tree/main/couchdb)                                                                      | 📦       | ⬜       |
+| Databases    | Couchbase            | Official Couchbase          | [couchbase-partners/helm-charts/couchbase-operator](https://github.com/couchbase-partners/helm-charts/tree/master/charts/couchbase-operator) | 🛠️      | ⬜       |
+| Databases    | Cassandra            | Official ScyllaDB           | [scylladb/scylla-operator](https://github.com/scylladb/scylla-operator/tree/master/helm)                                                     | 🛠️      | ⬜       |
+| Databases    | Redis Standalone     | Redis from Opstree          | [opstree/chart/operator](https://github.com/opstree/redis-operator/tree/main/charts/redis-operator)                                          | 🛠️      | ⬜       |
+| Databases    | Redis Master+Replica | Redis from Opstree          | [opstree/chart/operator](https://github.com/opstree/redis-operator/tree/main/charts/redis-operator)                                          | 🛠️      | ⬜       |
+| Databases    | Redis Cluster        | Redis from Opstree          | [opstree/chart/operator](https://github.com/opstree/redis-operator/tree/main/charts/redis-operator)                                          | 🛠️      | ⬜       |
+| Databases    | Redis Sentinel       | Redis from Opstree          | [opstree/chart/operator](https://github.com/opstree/redis-operator/tree/main/charts/redis-operator)                                          | 🛠️      | ⬜       |
+| Data         | Kafka                | Official Redpanda           | [redpanda/charts/controller](https://github.com/redpanda-data/redpanda-operator/tree/main/charts/redpanda)                                   | ⚙️       | ⬜       |
+| Data         | Kafka                | Official Redpanda           | [redpanda/chart/operator](https://github.com/redpanda-data/redpanda-operator/tree/main/operator/chart)                                       | 🛠️      | ⬜       |
+| Data         | InfluxDB             | Official InfluxDB           | [influxdata/helm-charts](https://github.com/influxdata/helm-charts)                                                                          | 📦       | ⬜       |
+| Data         | OpenSearch           | Official OpenSearch         | [opensearch-project/helm-charts](https://github.com/opensearch-project/helm-charts/tree/main/charts)                                         | 📦       | ⬜       |
+| Data         | Solr                 | Official Solr               | [apache/solr-operator](https://github.com/apache/solr-operator/tree/main/helm)                                                               | 🛠️      | ⬜       |
+| Networking   | External DNS         | Official External DNS       | [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns/tree/master/charts/external-dns)                              | ⚙️       | ⬜       |
+| Networking   | Consul               | Official Consul (HashiCrop) | [hashicorp/consul-k8s](https://github.com/hashicorp/consul-k8s/tree/main/charts/consul)                                                      | 📦       | ⬜       |
+| Networking   | Kong                 | Official Kong               | [Kong/charts](https://github.com/Kong/charts/tree/main/charts)                                                                               | 📦       | ⬜       |
+| Identity     | Cert Manager         | Official Cert Manager       | [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager/tree/master/deploy/charts/cert-manager)                             | ⚙️       | ⬜       |
+| Identity     | Vault                | Official Vault (HashiCrop)  | [hashicorp/vault-helm](https://github.com/hashicorp/vault-helm)                                                                              | 📦       | ⬜       |
+| Applications | Argo CD              | Official Argo CD            | [argo-helm/argo-cd](https://github.com/argoproj/argo-helm/tree/main/charts/argo-cd)                                                          | ⚙️       | ⬜       |
+| Applications | Argo Workflows       | Official Argo Workflows     | [argo-helm/argo-workflows](https://github.com/argoproj/argo-helm/tree/main/charts/argo-workflows)                                            | ⚙️       | ⬜       |
+| Applications | Nominatim            | RobJuz Nominatim `(1)`      | [robjuz/helm-charts/nominatim](https://github.com/robjuz/helm-charts/tree/master/charts/nominatim)                                           | 📦       | ⬜       |
+| Applications | Jenkins              | Official Jenkins            | [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts/tree/main/charts/jenkins)                                                   | 📦       | ⬜       |
+| Applications | SonarQube            | Official SonarQube          | [SonarSource/helm-chart-sonarqube](https://github.com/SonarSource/helm-chart-sonarqube/tree/master/charts)                                   | 📦       | ⬜       |
+| Applications | Airflow              | Official Apache Airflow     | [apache/airflow/chart](https://github.com/apache/airflow/tree/main/chart)                                                                    | 📦       | ⬜       |
+| Applications | Flink                | Official Apache Flink `(2)` | [apache/flink-kubernetes-operator](https://github.com/apache/flink-kubernetes-operator)                                                      | 🛠️      | ⬜       |
+| Applications | Logstash/Elastic/..  | Official Elastic            | [elastic/eck-operator](https://www.elastic.co/docs/deploy-manage/deploy/cloud-on-k8s/managing-deployments-using-helm-chart)                  | 🛠️      | ⬜       |
+| Applications | InfluxDB             | Official InfluxDB           | [influxdb/chart](https://github.com/influxdata/helm-charts/tree/master/charts)                                                               | 📦       | ⬜       |
+| Applications | Kiali                | Official Kiali              | [kiali](https://kiali.io/docs/installation/installation-guide/install-with-helm/)                                                            | 🛠️ / 📦 | ⬜       |
+| Applications | Jaeger               | Official Jaeger             | [influxdb/chart](https://github.com/jaegertracing/helm-charts/tree/main/charts)                                                              | 🛠️ / 📦 | ⬜       |
 
-
-
-
-
-
- - `(1)` - bitnami/postgresql dependency
- - `(2)` - limited, not all configurations can be set as desired.
+- `(1)` - bitnami/postgresql dependency
+- `(2)` - limited, not all configurations can be set as desired.
 
 ---
 
 ## ✅ Adoption Policy
 
-If any chart is abandoned by the community, **Opsolving adopts and actively maintains it** to ensure stability, availability, and long-term support.
+If any chart is abandoned by the community, **Opsolving adopts and actively maintains it** to ensure stability,
+availability, and long-term support.
 
 ---
 
 ### 🔑 Legend
 
-- 🛠️ Operator  
-- ⚙️ Controller  
+- 🛠️ Operator
+- ⚙️ Controller
 - 📦 Deployment
-- ⬜ Planned adoption (if abandoned by community)  
+- ⬜ Planned adoption (if abandoned by community)
 - ☑️ Adopted by Opsolving (active maintenance)
 
 ---
