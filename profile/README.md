@@ -43,7 +43,7 @@ helm search repo opsolving
 | Data         | Redpanda             | [redpanda/helm](https://github.com/redpanda-data/redpanda-operator/tree/main/operator/chart)                        | 🛠️       |     |  |
 | Data         | InfluxDB             | [influxdata/helm](https://github.com/influxdata/helm-charts/tree/master/charts)                                     | 📦        |     |  |
 | Data         | Telegraf             | [influxdata/helm](https://github.com/influxdata/helm-charts/tree/master/charts)                                     | 🛠️ / 📦  |     |  |
-| Data         | OpenSearch           | [opensearch/helm](https://github.com/opensearch-project/helm-charts/tree/main/charts)                               | 📦        |⬜    |  |
+| Data         | OpenSearch           | [opensearch/helm](https://github.com/opensearch-project/helm-charts/tree/main/charts)                               | 📦            |  |
 | Data         | Solr                 | [apache/solr](https://github.com/apache/solr-operator/tree/main/helm)                                               | 🛠️       |     |  |
 | Networking   | External DNS         | [kubernetes/helm](https://github.com/kubernetes-sigs/external-dns/tree/master/charts/external-dns)                  | ⚙️        |     |  |
 | Networking   | Consul               | [hashicorp/helm](https://github.com/hashicorp/consul-k8s/tree/main/charts/consul)                                   | 📦        |     |  |
@@ -58,8 +58,8 @@ helm search repo opsolving
 | Applications | Airflow              | [apache/helm](https://github.com/apache/airflow/tree/main/chart)                                                    | 📦        |     |  |
 | Applications | Flink                | [apache/helm](https://github.com/apache/flink-kubernetes-operator)                                                  | 🛠️       |     |  |
 | Applications | Logstash/Elastic/..  | [elastic/helm](https://www.elastic.co/docs/deploy-manage/deploy/cloud-on-k8s/managing-deployments-using-helm-chart) | 🛠️       |     |  |
-| Applications | Kiali                | [kiali/helm](https://kiali.io/docs/installation/installation-guide/install-with-helm/)                              | 🛠️ / 📦  | ⬜    |  |
-| Applications | Jaeger               | [jaeger/helm](https://github.com/jaegertracing/helm-charts/tree/main/charts)                                      | 🛠️ / 📦  | ⬜    |  |
+| Applications | Kiali                | [kiali/helm](https://kiali.io/docs/installation/installation-guide/install-with-helm/)                              | 🛠️ / 📦  |     |  |
+| Applications | Jaeger               | [jaeger/helm](https://github.com/jaegertracing/helm-charts/tree/main/charts)                                      | 🛠️ / 📦  |     |  |
 | Applications | Istio                | [istio/helm](https://github.com/jaegertracing/helm-charts/tree/main/charts)                                         | ⚙️        |     |  |
 | Applications | Istio                | [istio/helm](https://github.com/jaegertracing/helm-charts/tree/main/charts)                                         | ⚙️        |     |  |
 
