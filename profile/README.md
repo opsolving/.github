@@ -43,7 +43,7 @@ If any chart is abandoned by the community, **Opsolving adopts and maintains it*
 | Gateway    | Kong                   | [kong/helm](https://github.com/Kong/charts/tree/main/charts)                                                        | 🛠️ / 📦  |
 | Logging    | Elastic Stack (ECK)    | [elastic/helm](https://www.elastic.co/docs/deploy-manage/deploy/cloud-on-k8s/managing-deployments-using-helm-chart) | 🛠️       |
 |            | OpenSearch             | [opensearch/helm](https://github.com/opensearch-project/helm-charts/tree/main/charts)                               | 📦        |
-| Mesh       | Consul                 | [hashicorp/helm](https://github.com/hashicorp/consul-k8s/tree/main/charts/consul)                                   | 📦        |
+| Discovery  | Consul                 | [hashicorp/helm](https://github.com/hashicorp/consul-k8s/tree/main/charts/consul)                                   | 📦        |
 | Mesh       | Istio                  | [istio/helm](https://github.com/istio/istio/tree/master/manifests/charts)                                           | ⚙️        |
 |            | Kiali                  | [kiali/helm](https://kiali.io/docs/installation/installation-guide/install-with-helm/)                              | 🛠️ / 📦  |
 | Metrics    | InfluxDB               | [influxdata/helm](https://github.com/influxdata/helm-charts/tree/master/charts)                                     | 📦        |
