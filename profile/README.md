@@ -1,9 +1,25 @@
 # 📦 Opsolving Helm Charts
 
-A collection of **open-source Helm charts** for widely used services and components.  
-Created as community-driven alternatives after Bitnami charts moved to a commercial model.
+Community‑maintained, **open-source Helm charts** for widely used services and components.  
+Born as community-driven alternatives after Bitnami charts moved to a commercial model.
 
 If any chart is abandoned by the community, **Opsolving adopts and maintains it** to keep it available and up to date.
+
+[![Repo: charts](https://img.shields.io/badge/Repo-charts-2b3137?logo=github)](https://github.com/opsolving/charts)
+[![Helm v3](https://img.shields.io/badge/Helm-v3-0f1689?logo=helm&logoColor=white)](https://helm.sh)
+
+---
+
+## 📑 Table of Contents
+
+- [Available Helm Charts](#-available-helm-charts)
+- [Open‑Source Alternatives for Services](#-open-source-alternatives-for-services)
+- [Adoption Policy](#-adoption-policy)
+- [Legend](#-legend)
+- [Using the Charts](#-using-the-charts)
+- [Contributing](#-contributing)
+- [Support](#-support)
+- [Goal](#-goal)
 
 ---
 
@@ -18,7 +34,7 @@ If any chart is abandoned by the community, **Opsolving adopts and maintains it*
 
 ---
 
-## ⚡ Google Alternatives For Serivces
+## ⚡ Open‑Source Alternatives for Services
 
 | Category     | Application          | Alternative                                                                                                         | Link      |
 |--------------|----------------------|---------------------------------------------------------------------------------------------------------------------|-----------|
@@ -41,11 +57,11 @@ If any chart is abandoned by the community, **Opsolving adopts and maintains it*
 | Networking   | External DNS         | [kubernetes/helm](https://github.com/kubernetes-sigs/external-dns/tree/master/charts/external-dns)                  | ⚙️        |
 | Networking   | Consul               | [hashicorp/helm](https://github.com/hashicorp/consul-k8s/tree/main/charts/consul)                                   | 📦        |
 | Networking   | Kong                 | [kong/helm](https://github.com/Kong/charts/tree/main/charts)                                                        | 🛠️ / 📦  |
-| Identity     | Cert Manager         | [cert-manager/helm](https://github.com/cert-manager/cert-manager/tree/master/deploy/charts/cert-manager)            | ⚙️        |
+| Identity     | cert-manager         | [cert-manager/helm](https://github.com/cert-manager/cert-manager/tree/master/deploy/charts/cert-manager)            | ⚙️        |
 | Identity     | Vault                | [hashicorp/helm](https://github.com/hashicorp/vault-helm)                                                           | 📦        |
 | Applications | Argo CD              | [argo/helm](https://github.com/argoproj/argo-helm/tree/main/charts/argo-cd)                                         | ⚙️        |
 | Applications | Argo Workflows       | [argo/helm](https://github.com/argoproj/argo-helm/tree/main/charts/argo-workflows)                                  | ⚙️        |
-| Applications | Nominatim            | [robjuz/helm](https://github.com/robjuz/helm-charts/tree/master/charts/nominatim)                                   | 📦        | 
+| Applications | Nominatim            | [robjuz/helm](https://github.com/robjuz/helm-charts/tree/master/charts/nominatim)                                   | 📦        |
 | Applications | Jenkins              | [jenkinsci/helm](https://github.com/jenkinsci/helm-charts/tree/main/charts/jenkins)                                 | ⚙️        |
 | Applications | SonarQube            | [sonarsource/helm](https://github.com/SonarSource/helm-chart-sonarqube/tree/master/charts)                          | 📦        |
 | Applications | Airflow              | [apache/helm](https://github.com/apache/airflow/tree/main/chart)                                                    | 📦        |
@@ -53,8 +69,7 @@ If any chart is abandoned by the community, **Opsolving adopts and maintains it*
 | Applications | Logstash/Elastic/..  | [elastic/helm](https://www.elastic.co/docs/deploy-manage/deploy/cloud-on-k8s/managing-deployments-using-helm-chart) | 🛠️       |
 | Applications | Kiali                | [kiali/helm](https://kiali.io/docs/installation/installation-guide/install-with-helm/)                              | 🛠️ / 📦  |
 | Applications | Jaeger               | [jaeger/helm](https://github.com/jaegertracing/helm-charts/tree/main/charts)                                        | 🛠️ / 📦  |
-| Applications | Istio                | [istio/helm](https://github.com/jaegertracing/helm-charts/tree/main/charts)                                         | ⚙️        |
-| Applications | Istio                | [istio/helm](https://github.com/jaegertracing/helm-charts/tree/main/charts)                                         | ⚙️        |
+| Applications | Istio                | [istio/helm](https://github.com/istio/istio/tree/master/manifests/charts)                                           | ⚙️        |
 
 ---
 
@@ -65,11 +80,36 @@ availability, and long-term support.
 
 ---
 
-### 🔑 Legend
+## 🔑 Legend
 
-- 🛠️ Operator - clister wide, manages an application’s lifecycle using CRDs.
-- ⚙️ Controller - watches Kubernetes objects and makes changes to match their spec.
-- 📦 Deployment - namespaced safe deployment of application
+- 🛠️ Operator — cluster‑wide, manages an application’s lifecycle using CRDs.
+- ⚙️ Controller — watches Kubernetes objects and reconciles their state to match the spec.
+- 📦 Deployment — namespaced, safe deployment of an application.
+
+---
+
+## 🚀 Using the Charts
+
+- Browse all charts in the `opsolving/charts` repository: https://github.com/opsolving/charts
+- Each chart contains installation instructions, default values, and upgrade notes in its README.
+- Base building blocks live under `opsolving/common` and `opsolving/extra-manifest`.
+
+---
+
+## 🤝 Contributing
+
+Contributions are welcome! If you want to fix a bug, improve documentation, or add a new chart:
+
+- Open an issue or a pull request in `opsolving/charts`: https://github.com/opsolving/charts
+- Provide clear steps to reproduce (if reporting a bug) and keep PRs focused.
+
+---
+
+## 🆘 Support
+
+This is a community-driven effort. If you need help or found a problem, please open an issue here:
+
+- Issues: https://github.com/opsolving/charts/issues
 
 ---
 
