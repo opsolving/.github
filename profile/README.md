@@ -11,7 +11,6 @@ If any chart is abandoned by the community, **Opsolving adopts and maintains it*
 
 | Chart          | Current | Planned           |
 |----------------|---------|-------------------|
-| Cassandra      | 5.X     |                   |
 | Common         | 5.X     |                   |
 | EJBCA          | 9.X     |                   |
 | Extra Manifest | 9.X     |                   |
@@ -38,7 +37,7 @@ If any chart is abandoned by the community, **Opsolving adopts and maintains it*
 | Databases     | MongoDB               | Percona MongoDB        | [percona-helm-charts/psmdb-operator](https://github.com/percona/percona-helm-charts/tree/main/charts/psmdb-operator) | 🛠️ | ⬜ |
 | Databases     | CouchDB               | Official Apache CouchDB         | [apache/couchdb-helm](https://github.com/apache/couchdb-helm/tree/main/couchdb) | 📦 | ⬜ |
 | Databases     | Couchbase             | Official Couchbase              | [couchbase-partners/helm-charts/couchbase-operator](https://github.com/couchbase-partners/helm-charts/tree/master/charts/couchbase-operator) | 🛠️ | ⬜ |
-| Databases     | ScyllaDB              | Official ScyllaDB              | [scylladb/scylla-operator](https://github.com/scylladb/scylla-operator/tree/master/helm) | 🛠️ | ⬜ |
+| Databases     | Cassandra             | Official ScyllaDB              | [scylladb/scylla-operator](https://github.com/scylladb/scylla-operator/tree/master/helm) | 🛠️ | ⬜ |
 | Databases     | Redis Standalone      | Redis from Opstree     | [OT-CONTAINER-KIT/redis-operator](https://github.com/OT-CONTAINER-KIT/redis-operator/tree/main/charts/redis-operator) | 🛠️ | ⬜ |
 | Databases     | Redis Master+Replica  | Redis from Opstree     | [OT-CONTAINER-KIT/redis-operator](https://github.com/OT-CONTAINER-KIT/redis-operator/tree/main/charts/redis-operator) | 🛠️ | ⬜ |
 | Databases     | Redis Cluster         | Redis from Opstree     | [OT-CONTAINER-KIT/redis-operator](https://github.com/OT-CONTAINER-KIT/redis-operator/tree/main/charts/redis-operator) | 🛠️ | ⬜ |
