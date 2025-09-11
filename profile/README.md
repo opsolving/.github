@@ -7,7 +7,7 @@ If any chart is abandoned by the community, **Opsolving adopts and maintains it*
 
 ---
 
-## 📚 [Available Charts](https://github.com/opsolving/charts)
+## 📚 [Available Helm Charts](https://github.com/opsolving/charts)
 
 ### Base Charts
 
@@ -15,6 +15,13 @@ If any chart is abandoned by the community, **Opsolving adopts and maintains it*
 |----------------|---------|
 | Common         | 2.31.4  |
 | Extra Manifest | 1.0.0   |
+
+```bash
+helm repo add opsolving https://opsolving.github.io/charts
+helm repo update
+
+helm search repo opsolving
+```
 
 ---
 
