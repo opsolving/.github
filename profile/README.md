@@ -10,18 +10,6 @@ If any chart is abandoned by the community, **Opsolving adopts and maintains it*
 
 ---
 
-## 📑 Table of Contents
-
-- [Available Helm Charts](#-available-helm-charts)
-- [Open‑Source Alternatives for Services](#-open-source-alternatives-for-services)
-- [Adoption Policy](#-adoption-policy)
-- [Legend](#-legend)
-- [Using the Charts](#-using-the-charts)
-- [Contributing](#-contributing)
-- [Support](#-support)
-- [Goal](#-goal)
-
----
 
 ## 📚 [Available Helm Charts](https://github.com/opsolving/charts)
 
@@ -49,7 +37,7 @@ If any chart is abandoned by the community, **Opsolving adopts and maintains it*
 | Databases    | Redis Cluster        | [opstree/helm](https://github.com/OT-CONTAINER-KIT/redis-operator/tree/main/charts)                                 | 🛠️       |
 | Databases    | Redis Sentinel       | [opstree/helm](https://github.com/OT-CONTAINER-KIT/redis-operator/tree/main/charts)                                 | 🛠️       |
 | Data         | Redpanda             | [redpanda/helm](https://github.com/redpanda-data/redpanda-operator/tree/main/charts/redpanda)                       | 📦        |
-| Data         | Redpanda             | [redpanda/helm](https://github.com/redpanda-data/redpanda-operator/tree/main/operator/chart)                        | 🛠️       |
+| Data         | Redpanda Operator    | [redpanda/helm](https://github.com/redpanda-data/redpanda-operator/tree/main/operator/chart)                        | 🛠️       |
 | Data         | InfluxDB             | [influxdata/helm](https://github.com/influxdata/helm-charts/tree/master/charts)                                     | 📦        |
 | Data         | Telegraf             | [influxdata/helm](https://github.com/influxdata/helm-charts/tree/master/charts)                                     | 🛠️ / 📦  |
 | Data         | OpenSearch           | [opensearch/helm](https://github.com/opensearch-project/helm-charts/tree/main/charts)                               | 📦        |
