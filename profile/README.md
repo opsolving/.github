@@ -67,9 +67,9 @@ availability, and long-term support.
 
 ### 🔑 Legend
 
-- 🛠️ Operator
-- ⚙️ Controller
-- 📦 Deployment - namespaced dpeloyment of application
+- 🛠️ Operator - clister wide, manages an application’s lifecycle using CRDs.
+- ⚙️ Controller - watches Kubernetes objects and makes changes to match their spec.
+- 📦 Deployment - namespaced safe deployment of application
 
 ---
 
