@@ -33,7 +33,7 @@ If any chart is abandoned by the community, **Opsolving adopts and maintains it*
 |            | Argo Workflows         | [argo/helm](https://github.com/argoproj/argo-helm/tree/main/charts/argo-workflows)                                  | ⚙️        |
 |            | Jenkins                | [jenkinsci/helm](https://github.com/jenkinsci/helm-charts/tree/main/charts/jenkins)                                 | 📦        |
 | Database   | Couchbase              | [couchbase/helm](https://github.com/couchbase-partners/helm-charts/tree/master/charts/couchbase-operator)           | 🛠️       |
-|            | CouchDB                | [apache/helm](https://github.com/apache/couchdb-helm/tree/main/couchdb)                                             | 📦        |
+|            | Apache CouchDB         | [apache/helm](https://github.com/apache/couchdb-helm/tree/main/couchdb)                                             | 📦        |
 |            | MongoDB                | [percona/helm](https://github.com/percona/percona-helm-charts/tree/main/charts/psmdb-operator)                      | 🛠️       |
 |            | MySQL                  | [percona/helm](https://github.com/percona/percona-helm-charts/tree/main/charts/pxc-operator)                        | 🛠️       |
 |            | PostgreSQL             | [percona/helm](https://github.com/percona/percona-helm-charts/tree/main/charts/pg-operator)                         | 🛠️       |
