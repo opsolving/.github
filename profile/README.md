@@ -7,7 +7,7 @@ If any chart is abandoned by the community, **Opsolving adopts and maintains it*
 
 ---
 
-## 📚 Available Charts
+## 📚 [Available Charts}(https://github.com/opsolving/charts)
 
 ### Base Charts
 
