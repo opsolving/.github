@@ -63,9 +63,6 @@ helm search repo opsolving
 | Applications | Istio                | [istio/helm](https://github.com/jaegertracing/helm-charts/tree/main/charts)                                         | ⚙️        |
 | Applications | Istio                | [istio/helm](https://github.com/jaegertracing/helm-charts/tree/main/charts)                                         | ⚙️        |
 
-- `(1)` - bitnami/postgresql dependency
-- `(2)` - limited, not all configurations can be set as desired.
-
 ---
 
 ## ✅ Adoption Policy
