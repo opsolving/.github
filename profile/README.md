@@ -11,10 +11,7 @@ If any chart is abandoned by the community, **Opsolving adopts and maintains it*
 
 | Chart         | Current | Planned           |
 |---------------|---------|-------------------|
-| Redis         | 8.X     | 7.X               |
-| Redis Cluster | 8.X     | 7.X               |
 | EJBCA         | 9.X     |                   |
-| Kafka         | 4.X     | 3.X               |
 | Keycloak      | 26.X    |                   |
 | KeyDB         | 6.X     |                   |
 | Logstash      | 9.X     | 8.X               |
