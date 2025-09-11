@@ -62,6 +62,8 @@ If any chart is abandoned by the community, **Opsolving adopts and maintains it*
 | Applications | Logstash/Elastic/..  | Elastic                | [elastic/helm](https://www.elastic.co/docs/deploy-manage/deploy/cloud-on-k8s/managing-deployments-using-helm-chart) | 🛠️       | ⬜       |
 | Applications | Kiali                | Kiali                  | [kiali/helm](https://kiali.io/docs/installation/installation-guide/install-with-helm/)                              | 🛠️ / 📦  | ⬜       |
 | Applications | Jaeger               | Jaeger                 | [influxdb/helm](https://github.com/jaegertracing/helm-charts/tree/main/charts)                                      | 🛠️ / 📦  | ⬜       |
+| Applications | Istio                | Istio Sidecar          | [istio/helm](https://github.com/jaegertracing/helm-charts/tree/main/charts)                                         | ⚙️        | ⬜       |
+| Applications | Istio                | Istio Ambient          | [istio/helm](https://github.com/jaegertracing/helm-charts/tree/main/charts)                                         | ⚙️        | ⬜       |
 
 - `(1)` - bitnami/postgresql dependency
 - `(2)` - limited, not all configurations can be set as desired.
