@@ -69,7 +69,7 @@ availability, and long-term support.
 
 - 🛠️ Operator
 - ⚙️ Controller
-- 📦 Deployment
+- 📦 Deployment - namespaced dpeloyment of application
 
 ---
 
