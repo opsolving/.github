@@ -29,7 +29,7 @@ helm search repo opsolving
 
 | Category     | Application          | Alternative                                                                                                         | Link      | Type | Adopted |
 |--------------|----------------------|---------------------------------------------------------------------------------------------------------------------|-----------|------|---------|
-| Databases    | PostgreSQL           | [percona/helm](https://github.com/percona/percona-helm-charts/tree/main/charts/pg-operator)                         | 🛠️       |     |
+| Databases    | PostgreSQL           | [percona/helm](https://github.com/percona/percona-helm-charts/tree/main/charts/pg-operator)                         | 🛠️       |     | x |
 | Databases    | MySQL                | [percona/helm](https://github.com/percona/percona-helm-charts/tree/main/charts/pxc-operator)                        | 🛠️       |     |
 | Databases    | MongoDB              | [percona/helm](https://github.com/percona/percona-helm-charts/tree/main/charts/psmdb-operator)                      | 🛠️       |     |
 | Databases    | CouchDB              | [apache/helm](https://github.com/apache/couchdb-helm/tree/main/couchdb)                                             | 📦        | ⬜    |
@@ -59,7 +59,7 @@ helm search repo opsolving
 | Applications | Flink                | [apache/helm](https://github.com/apache/flink-kubernetes-operator)                                                  | 🛠️       |     |
 | Applications | Logstash/Elastic/..  | [elastic/helm](https://www.elastic.co/docs/deploy-manage/deploy/cloud-on-k8s/managing-deployments-using-helm-chart) | 🛠️       |     |
 | Applications | Kiali                | [kiali/helm](https://kiali.io/docs/installation/installation-guide/install-with-helm/)                              | 🛠️ / 📦  | ⬜    |
-| Applications | Jaeger               | [influxdb/helm](https://github.com/jaegertracing/helm-charts/tree/main/charts)                                      | 🛠️ / 📦  | ⬜    |
+| Applications | Jaeger               | [jaeger/helm](https://github.com/jaegertracing/helm-charts/tree/main/charts)                                      | 🛠️ / 📦  | ⬜    |
 | Applications | Istio                | [istio/helm](https://github.com/jaegertracing/helm-charts/tree/main/charts)                                         | ⚙️        |     |
 | Applications | Istio                | [istio/helm](https://github.com/jaegertracing/helm-charts/tree/main/charts)                                         | ⚙️        |     |
 
