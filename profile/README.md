@@ -55,8 +55,8 @@ If any chart is abandoned by the community, **Opsolving adopts and maintains it*
 | Streaming  | Redpanda               | [redpanda/helm](https://github.com/redpanda-data/redpanda-operator/tree/main/charts/redpanda)                       | 📦        |
 |            | Redpanda Operator      | [redpanda/helm](https://github.com/redpanda-data/redpanda-operator/tree/main/operator/chart)                        | 🛠️       |
 | Tracing    | Jaeger                 | [jaeger/helm](https://github.com/jaegertracing/helm-charts/tree/main/charts)                                        | 🛠️ / 📦  |
-| Streaming  | Flink                  | [apache/helm](https://github.com/apache/flink-kubernetes-operator)                                                  | 🛠️       |
-| Scheduler  | Airflow                | [apache/helm](https://github.com/apache/airflow/tree/main/chart)                                                    | 📦        |
+| Streaming  | Apache Flink           | [apache/helm](https://github.com/apache/flink-kubernetes-operator)                                                  | 🛠️       |
+| Scheduler  | Apache Airflow         | [apache/helm](https://github.com/apache/airflow/tree/main/chart)                                                    | 📦        |
 
 ---
 
