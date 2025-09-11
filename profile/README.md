@@ -16,13 +16,6 @@ If any chart is abandoned by the community, **Opsolving adopts and maintains it*
 | Common         | 2.31.4  |
 | Extra Manifest | 1.0.0   |
 
-```bash
-helm repo add opsolving https://opsolving.github.io/charts
-helm repo update
-
-helm search repo opsolving
-```
-
 ---
 
 ## ⚡ Google Alternatives For Serivces
