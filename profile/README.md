@@ -17,7 +17,7 @@ If any chart is abandoned by the community, **Opsolving adopts and maintains it*
 | Extra Manifest | 9.X     |         |
 
 ### Application Charts
-1
+
 | Chart      | Current | Planned           |
 |------------|---------|-------------------|
 | EJBCA      | 9.X     |                   |
