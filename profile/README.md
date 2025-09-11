@@ -41,8 +41,8 @@ If any chart is abandoned by the community, **Opsolving adopts and maintains it*
 | Databases     | Redis Master+Replica  | Redis from Opstree     | [OT-CONTAINER-KIT/redis-operator](https://github.com/OT-CONTAINER-KIT/redis-operator/tree/main/charts/redis-operator) | 🛠️ | ⬜ |
 | Databases     | Redis Cluster         | Redis from Opstree     | [OT-CONTAINER-KIT/redis-operator](https://github.com/OT-CONTAINER-KIT/redis-operator/tree/main/charts/redis-operator) | 🛠️ | ⬜ |
 | Databases     | Redis Sentinel        | Redis from Opstree     | [OT-CONTAINER-KIT/redis-operator](https://github.com/OT-CONTAINER-KIT/redis-operator/tree/main/charts/redis-operator) | 🛠️ | ⬜ |
-| Data          | Kafka                 | Official Redpanda      | [redpanda-operator/charts/redpanda](https://github.com/redpanda-data/redpanda-operator/tree/main/charts/redpanda) | ⚙️ | ⬜ |
-| Data          | Kafka                 | Official Redpanda      | [redpanda-operator/operator/chart](https://github.com/redpanda-data/redpanda-operator/tree/main/operator/chart) | 🛠️ | ⬜ |
+| Data          | Kafka                 | Official Redpanda      | [redpanda/charts/controller](https://github.com/redpanda-data/redpanda-operator/tree/main/charts/redpanda) | ⚙️ | ⬜ |
+| Data          | Kafka                 | Official Redpanda      | [redpanda/chart/operator](https://github.com/redpanda-data/redpanda-operator/tree/main/operator/chart) | 🛠️ | ⬜ |
 | Data          | InfluxDB              | Official InfluxDB      | [influxdata/helm-charts](https://github.com/influxdata/helm-charts) | 📦 | ⬜ |
 | Data          | OpenSearch            | Official OpenSearch    | [opensearch-project/helm-charts](https://github.com/opensearch-project/helm-charts/tree/main/charts) | 📦 | ⬜ |
 | Data          | Solr                  | Official Solr                  | [apache/solr-operator](https://github.com/apache/solr-operator/tree/main/helm) | 🛠️ | ⬜ |
