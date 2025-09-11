@@ -9,21 +9,28 @@ If any chart is abandoned by the community, **Opsolving adopts and maintains it*
 
 ## 📚 Available Charts Without Good Alternatives
 
-| Chart          | Current | Planned           |
-|----------------|---------|-------------------|
-| Common         | 5.X     |                   |
-| EJBCA          | 9.X     |                   |
-| Extra Manifest | 9.X     |                   |
-| Keycloak       | 26.X    |                   |
-| KeyDB          | 6.X     |                   |
-| MariaDB        | 12.X    | 10.11, 11.4, 11.8 |
-| Memcached      | 1.X     |                   |
-| NGINX          | 1.29.X  |                   |
-| phpMyAdmin     | 5.X     |                   |
-| PostgreSQL     | 17      | 14, 15, 16        |
-| Tomcat         | 11.X    | 9.X, 10.X         |
-| WildFly        | 37.X    |                   |
-| Zookeeper      | 37.X    |                   |
+### Base Charts
+
+| Chart          | Current | Planned |
+|----------------|---------|---------|
+| Common         | 5.X     |         |
+| Extra Manifest | 9.X     |         |
+
+### Application Charts
+1
+| Chart      | Current | Planned           |
+|------------|---------|-------------------|
+| EJBCA      | 9.X     |                   |
+| Keycloak   | 26.X    |                   |
+| KeyDB      | 6.X     |                   |
+| MariaDB    | 12.X    | 10.11, 11.4, 11.8 |
+| Memcached  | 1.X     |                   |
+| NGINX      | 1.29.X  |                   |
+| phpMyAdmin | 5.X     |                   |
+| PostgreSQL | 17      | 14, 15, 16        |
+| Tomcat     | 11.X    | 9.X, 10.X         |
+| WildFly    | 37.X    |                   |
+| Zookeeper  | 37.X    |                   |
 
 ---
 
