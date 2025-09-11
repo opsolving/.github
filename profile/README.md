@@ -60,6 +60,7 @@ If any chart is abandoned by the community, **Opsolving adopts and maintains it*
 | Applications  | Flink                 | Official Apache Flink `(2)`            | [apache/flink-kubernetes-operator](https://github.com/apache/flink-kubernetes-operator) | 🛠️ | ⬜ |
 | Applications  | Logstash/Elastic/..   | Official Elastic             | [elastic/eck-operator](https://www.elastic.co/docs/deploy-manage/deploy/cloud-on-k8s/managing-deployments-using-helm-chart) | 🛠️ | ⬜ |
 | Applications  | InfluxDB              | Official InfluxDB             | [influxdb/chart](https://github.com/influxdata/helm-charts/tree/master/charts) | 📦 | ⬜ |
+| Applications  | Kiali                 | Official Kiali             | [influxdb/chart]([https://github.com/influxdata/helm-charts/tree/master/charts](https://kiali.io/docs/installation/installation-guide/install-with-helm/)) | 🛠️ | ⬜ |
 
 
 
