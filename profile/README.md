@@ -18,7 +18,7 @@ If any chart is abandoned by the community, **Opsolving adopts and maintains it*
 
 ---
 
-## ⚡ Google alternatives for `bitnami`
+## ⚡ Google Alternatives For Serivces
 
 | Category     | Application          | Alternative                                                                                                         | Link      | Type | Adopted |
 |--------------|----------------------|---------------------------------------------------------------------------------------------------------------------|-----------|------|---------|
