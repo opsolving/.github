@@ -15,7 +15,7 @@ If any chart is abandoned by the community, **Opsolving adopts and maintains it*
 | Chart                                                                                    | Current |
 |------------------------------------------------------------------------------------------|---------|
 | [Common](https://github.com/opsolving/charts/tree/main/opsolving/common)                 | 2.31.4  |
-| [Extra Manifest](https://github.com/opsolving/charts/tree/main/opsolving/extra-manifest) | 1.0.0   |
+| [Extra](https://github.com/opsolving/charts/tree/main/opsolving/extra) | 1.0.0   |
 
 ---
 
